@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "id": "custom_event_1",
+      "personId": "SCAMMER_INVESTMENT_1",
+      "personLabel": "Investment Actor 1",
+      "personType": "scammer",
+      "eventType": "Account Flagged",
+      "description": "Account flagged for suspicious wire transfers",
+      "scamType": "Investment",
+      "date": "2024-03-15T10:30:00.000Z"
+    },
+    {
+      "id": "custom_event_2",
+      "personId": "VICTIM_1",
+      "personLabel": "Emily Davis",
+      "personType": "victim",
+      "eventType": "Recovery Initiated",
+      "description": "Victim initiated fund recovery process",
+      "scamType": "Investment",
+      "date": "2024-04-02T14:00:00.000Z"
+    }
+  ]
+}
