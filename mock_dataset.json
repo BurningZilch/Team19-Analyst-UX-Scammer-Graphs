@@ -1,0 +1,1418 @@
+{
+  "nodes": [
+    {
+      "id": "WALLET_BTC_MAIN",
+      "group": "financial_node",
+      "financial_instrument": "Crypto",
+      "risk": 99,
+      "label": "Investment Scam Cold Wallet",
+      "size": 50
+    },
+    {
+      "id": "ACC_CBA_MULE",
+      "group": "financial_node",
+      "financial_instrument": "Bank Account",
+      "risk": 85,
+      "label": "Mule Account (Banking Scams)",
+      "size": 50
+    },
+    {
+      "id": "ID_WESTERN_UNION",
+      "group": "financial_node",
+      "financial_instrument": "Money Transfer",
+      "risk": 75,
+      "label": "Overseas Transfer (Romance)",
+      "size": 50
+    },
+    {
+      "id": "WALLET_BETTING_APP",
+      "group": "financial_node",
+      "financial_instrument": "Gambling Platform",
+      "risk": 90,
+      "label": "Illicit Betting Pot",
+      "size": 50
+    },
+    {
+      "id": "SCAMMER_INVESTMENT_1",
+      "group": "scammer",
+      "scam_type": "Investment",
+      "risk": 88,
+      "label": "Investment Actor 1",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_INVESTMENT_2",
+      "group": "scammer",
+      "scam_type": "Investment",
+      "risk": 91,
+      "label": "Investment Actor 2",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_INVESTMENT_3",
+      "group": "scammer",
+      "scam_type": "Investment",
+      "risk": 82,
+      "label": "Investment Actor 3",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_BANKING_1",
+      "group": "scammer",
+      "scam_type": "Banking",
+      "risk": 83,
+      "label": "Banking Actor 1",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_BANKING_2",
+      "group": "scammer",
+      "scam_type": "Banking",
+      "risk": 81,
+      "label": "Banking Actor 2",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_BANKING_3",
+      "group": "scammer",
+      "scam_type": "Banking",
+      "risk": 98,
+      "label": "Banking Actor 3",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_ROMANCE_1",
+      "group": "scammer",
+      "scam_type": "Romance",
+      "risk": 84,
+      "label": "Romance Actor 1",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_ROMANCE_2",
+      "group": "scammer",
+      "scam_type": "Romance",
+      "risk": 95,
+      "label": "Romance Actor 2",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_ROMANCE_3",
+      "group": "scammer",
+      "scam_type": "Romance",
+      "risk": 96,
+      "label": "Romance Actor 3",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_GAMBLING_1",
+      "group": "scammer",
+      "scam_type": "Gambling",
+      "risk": 88,
+      "label": "Gambling Actor 1",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_GAMBLING_2",
+      "group": "scammer",
+      "scam_type": "Gambling",
+      "risk": 83,
+      "label": "Gambling Actor 2",
+      "size": 30
+    },
+    {
+      "id": "SCAMMER_GAMBLING_3",
+      "group": "scammer",
+      "scam_type": "Gambling",
+      "risk": 81,
+      "label": "Gambling Actor 3",
+      "size": 30
+    },
+    {
+      "id": "VICTIM_1",
+      "group": "victim",
+      "risk": 38,
+      "label": "Victim 1",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_2",
+      "group": "victim",
+      "risk": 15,
+      "label": "Victim 2",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_3",
+      "group": "victim",
+      "risk": 22,
+      "label": "Victim 3",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_4",
+      "group": "victim",
+      "risk": 34,
+      "label": "Victim 4",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_5",
+      "group": "victim",
+      "risk": 23,
+      "label": "Victim 5",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_6",
+      "group": "victim",
+      "risk": 27,
+      "label": "Victim 6",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_7",
+      "group": "victim",
+      "risk": 33,
+      "label": "Victim 7",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_8",
+      "group": "victim",
+      "risk": 14,
+      "label": "Victim 8",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_9",
+      "group": "victim",
+      "risk": 29,
+      "label": "Victim 9",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_10",
+      "group": "victim",
+      "risk": 30,
+      "label": "Victim 10",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_11",
+      "group": "victim",
+      "risk": 20,
+      "label": "Victim 11",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_12",
+      "group": "victim",
+      "risk": 27,
+      "label": "Victim 12",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_13",
+      "group": "victim",
+      "risk": 35,
+      "label": "Victim 13",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_14",
+      "group": "victim",
+      "risk": 38,
+      "label": "Victim 14",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_15",
+      "group": "victim",
+      "risk": 23,
+      "label": "Victim 15",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_16",
+      "group": "victim",
+      "risk": 28,
+      "label": "Victim 16",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_17",
+      "group": "victim",
+      "risk": 18,
+      "label": "Victim 17",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_18",
+      "group": "victim",
+      "risk": 11,
+      "label": "Victim 18",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_19",
+      "group": "victim",
+      "risk": 27,
+      "label": "Victim 19",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_20",
+      "group": "victim",
+      "risk": 17,
+      "label": "Victim 20",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_21",
+      "group": "victim",
+      "risk": 21,
+      "label": "Victim 21",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_22",
+      "group": "victim",
+      "risk": 22,
+      "label": "Victim 22",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_23",
+      "group": "victim",
+      "risk": 11,
+      "label": "Victim 23",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_24",
+      "group": "victim",
+      "risk": 37,
+      "label": "Victim 24",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_25",
+      "group": "victim",
+      "risk": 11,
+      "label": "Victim 25",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_26",
+      "group": "victim",
+      "risk": 10,
+      "label": "Victim 26",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_27",
+      "group": "victim",
+      "risk": 22,
+      "label": "Victim 27",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_28",
+      "group": "victim",
+      "risk": 24,
+      "label": "Victim 28",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_29",
+      "group": "victim",
+      "risk": 18,
+      "label": "Victim 29",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_30",
+      "group": "victim",
+      "risk": 25,
+      "label": "Victim 30",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_31",
+      "group": "victim",
+      "risk": 12,
+      "label": "Victim 31",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_32",
+      "group": "victim",
+      "risk": 18,
+      "label": "Victim 32",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_33",
+      "group": "victim",
+      "risk": 12,
+      "label": "Victim 33",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_34",
+      "group": "victim",
+      "risk": 26,
+      "label": "Victim 34",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_35",
+      "group": "victim",
+      "risk": 29,
+      "label": "Victim 35",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_36",
+      "group": "victim",
+      "risk": 26,
+      "label": "Victim 36",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_37",
+      "group": "victim",
+      "risk": 37,
+      "label": "Victim 37",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_38",
+      "group": "victim",
+      "risk": 32,
+      "label": "Victim 38",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_39",
+      "group": "victim",
+      "risk": 14,
+      "label": "Victim 39",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_40",
+      "group": "victim",
+      "risk": 15,
+      "label": "Victim 40",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_41",
+      "group": "victim",
+      "risk": 17,
+      "label": "Victim 41",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_42",
+      "group": "victim",
+      "risk": 28,
+      "label": "Victim 42",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_43",
+      "group": "victim",
+      "risk": 23,
+      "label": "Victim 43",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_44",
+      "group": "victim",
+      "risk": 11,
+      "label": "Victim 44",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_45",
+      "group": "victim",
+      "risk": 34,
+      "label": "Victim 45",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_46",
+      "group": "victim",
+      "risk": 12,
+      "label": "Victim 46",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_47",
+      "group": "victim",
+      "risk": 25,
+      "label": "Victim 47",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_48",
+      "group": "victim",
+      "risk": 20,
+      "label": "Victim 48",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_49",
+      "group": "victim",
+      "risk": 23,
+      "label": "Victim 49",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_50",
+      "group": "victim",
+      "risk": 36,
+      "label": "Victim 50",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_51",
+      "group": "victim",
+      "risk": 40,
+      "label": "Victim 51",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_52",
+      "group": "victim",
+      "risk": 22,
+      "label": "Victim 52",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_53",
+      "group": "victim",
+      "risk": 13,
+      "label": "Victim 53",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_54",
+      "group": "victim",
+      "risk": 29,
+      "label": "Victim 54",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_55",
+      "group": "victim",
+      "risk": 27,
+      "label": "Victim 55",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_56",
+      "group": "victim",
+      "risk": 36,
+      "label": "Victim 56",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_57",
+      "group": "victim",
+      "risk": 33,
+      "label": "Victim 57",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_58",
+      "group": "victim",
+      "risk": 21,
+      "label": "Victim 58",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_59",
+      "group": "victim",
+      "risk": 40,
+      "label": "Victim 59",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_60",
+      "group": "victim",
+      "risk": 35,
+      "label": "Victim 60",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_61",
+      "group": "victim",
+      "risk": 24,
+      "label": "Victim 61",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_62",
+      "group": "victim",
+      "risk": 15,
+      "label": "Victim 62",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_63",
+      "group": "victim",
+      "risk": 20,
+      "label": "Victim 63",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_64",
+      "group": "victim",
+      "risk": 39,
+      "label": "Victim 64",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_65",
+      "group": "victim",
+      "risk": 16,
+      "label": "Victim 65",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_66",
+      "group": "victim",
+      "risk": 19,
+      "label": "Victim 66",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_67",
+      "group": "victim",
+      "risk": 21,
+      "label": "Victim 67",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_68",
+      "group": "victim",
+      "risk": 35,
+      "label": "Victim 68",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_69",
+      "group": "victim",
+      "risk": 26,
+      "label": "Victim 69",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_70",
+      "group": "victim",
+      "risk": 39,
+      "label": "Victim 70",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_71",
+      "group": "victim",
+      "risk": 27,
+      "label": "Victim 71",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_72",
+      "group": "victim",
+      "risk": 30,
+      "label": "Victim 72",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_73",
+      "group": "victim",
+      "risk": 24,
+      "label": "Victim 73",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_74",
+      "group": "victim",
+      "risk": 26,
+      "label": "Victim 74",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_75",
+      "group": "victim",
+      "risk": 39,
+      "label": "Victim 75",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_76",
+      "group": "victim",
+      "risk": 23,
+      "label": "Victim 76",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_77",
+      "group": "victim",
+      "risk": 37,
+      "label": "Victim 77",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_78",
+      "group": "victim",
+      "risk": 33,
+      "label": "Victim 78",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_79",
+      "group": "victim",
+      "risk": 14,
+      "label": "Victim 79",
+      "size": 15
+    },
+    {
+      "id": "VICTIM_80",
+      "group": "victim",
+      "risk": 29,
+      "label": "Victim 80",
+      "size": 15
+    }
+  ],
+  "links": [
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "WALLET_BTC_MAIN",
+      "type": "laundering",
+      "amount": 19763,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "WALLET_BTC_MAIN",
+      "type": "laundering",
+      "amount": 31605,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "WALLET_BTC_MAIN",
+      "type": "laundering",
+      "amount": 39213,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "ACC_CBA_MULE",
+      "type": "laundering",
+      "amount": 26376,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "ACC_CBA_MULE",
+      "type": "laundering",
+      "amount": 13660,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_3",
+      "target": "ACC_CBA_MULE",
+      "type": "laundering",
+      "amount": 6676,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "ID_WESTERN_UNION",
+      "type": "laundering",
+      "amount": 5111,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "ID_WESTERN_UNION",
+      "type": "laundering",
+      "amount": 15654,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "ID_WESTERN_UNION",
+      "type": "laundering",
+      "amount": 31239,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "WALLET_BETTING_APP",
+      "type": "laundering",
+      "amount": 13841,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "WALLET_BETTING_APP",
+      "type": "laundering",
+      "amount": 46770,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "WALLET_BETTING_APP",
+      "type": "laundering",
+      "amount": 22186,
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_1",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T17:52:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_2",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T01:56:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_3",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T02:17:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_4",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:24:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_5",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T02:33:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_3",
+      "target": "VICTIM_6",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T12:01:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_7",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T04:59:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_8",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T23:41:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_9",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T17:59:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_10",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T12:11:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_11",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T09:44:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_12",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:40:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_13",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T14:06:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_14",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T01:04:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_15",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T23:11:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_16",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T04:49:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_17",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T04:24:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_18",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T04:42:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_19",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T02:50:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_20",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T02:00:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_21",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T02:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_22",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T14:47:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_23",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:26:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_24",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T01:58:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_25",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T23:26:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_26",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T21:07:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_27",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T11:32:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_28",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T11:43:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_29",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T04:56:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_30",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T22:37:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_31",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:34:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_32",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T02:07:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_33",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T11:51:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_34",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T21:06:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_35",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T23:26:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_36",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T03:19:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_37",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T03:14:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_38",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T01:05:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_39",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T20:01:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_40",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T10:34:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_41",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T21:42:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_42",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T01:20:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_43",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T22:30:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_44",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T20:34:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_45",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T10:20:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_46",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:02:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_3",
+      "target": "VICTIM_47",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T15:51:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_48",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T20:44:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_49",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:49:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_50",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T17:28:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_51",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T04:17:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_52",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T12:30:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_53",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T17:03:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_54",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T22:27:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_55",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T00:36:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_56",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T22:35:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_57",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T04:23:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_58",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T03:02:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_59",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T14:18:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_60",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T04:45:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_61",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T15:31:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_62",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T01:09:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_63",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:55:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_64",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T00:43:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_65",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T16:04:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_66",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:41:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_67",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T03:30:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_3",
+      "target": "VICTIM_68",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T13:48:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_69",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Email",
+      "timestamp": "2023-10-27T19:05:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_70",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T14:14:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_71",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T01:45:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_72",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:11:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_73",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T00:51:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_74",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T22:14:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_75",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T00:42:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_2",
+      "target": "VICTIM_76",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T19:27:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_77",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T23:00:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_78",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T17:11:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_79",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T00:35:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_80",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Email",
+      "timestamp": "2023-10-27T17:30:00"
+    }
+  ]
+}
