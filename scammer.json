@@ -1,0 +1,935 @@
+{
+  "nodes": [
+    {
+      "id": "WALLET_BTC_KINGPIN",
+      "group": "financial_node",
+      "financial_instrument": "Crypto",
+      "risk": 99,
+      "country": "Unknown",
+      "label": "High-Yield Crypto Wallet",
+      "size": 40
+    },
+    {
+      "id": "ACC_COMMONWEALTH_MULE",
+      "group": "financial_node",
+      "financial_instrument": "Bank Account",
+      "risk": 80,
+      "country": "Unknown",
+      "label": "Mule Bank Account (CBA)",
+      "size": 40
+    },
+    {
+      "id": "ID_WESTERN_UNION_DROP",
+      "group": "financial_node",
+      "financial_instrument": "Money Transfer",
+      "risk": 70,
+      "country": "Unknown",
+      "label": "Western Union ID #9928",
+      "size": 40
+    },
+    {
+      "id": "SCAMMER_1",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_A",
+      "scam_type": "Romance",
+      "label": "Romance Actor 1",
+      "size": 25
+    },
+    {
+      "id": "SCAMMER_2",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_A",
+      "scam_type": "Romance",
+      "label": "Romance Actor 2",
+      "size": 25
+    },
+    {
+      "id": "SCAMMER_3",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_B",
+      "scam_type": "Romance",
+      "label": "Romance Actor 3",
+      "size": 25
+    },
+    {
+      "id": "SCAMMER_4",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_A",
+      "scam_type": "Romance",
+      "label": "Romance Actor 4",
+      "size": 25
+    },
+    {
+      "id": "SCAMMER_5",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_A",
+      "scam_type": "Romance",
+      "label": "Romance Actor 5",
+      "size": 25
+    },
+    {
+      "id": "SCAMMER_6",
+      "group": "scammer",
+      "risk": 85,
+      "country": "Region_A",
+      "scam_type": "Romance",
+      "label": "Romance Actor 6",
+      "size": 25
+    },
+    {
+      "id": "VICTIM_1",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 63,
+      "label": "Victim 1",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_2",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 61,
+      "label": "Victim 2",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_3",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 71,
+      "label": "Victim 3",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_4",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 57,
+      "label": "Victim 4",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_5",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 61,
+      "label": "Victim 5",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_6",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 6",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_7",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 73,
+      "label": "Victim 7",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_8",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 56,
+      "label": "Victim 8",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_9",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 63,
+      "label": "Victim 9",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_10",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 57,
+      "label": "Victim 10",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_11",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 66,
+      "label": "Victim 11",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_12",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 73,
+      "label": "Victim 12",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_13",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 73,
+      "label": "Victim 13",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_14",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 72,
+      "label": "Victim 14",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_15",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 65,
+      "label": "Victim 15",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_16",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 55,
+      "label": "Victim 16",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_17",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 75,
+      "label": "Victim 17",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_18",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 56,
+      "label": "Victim 18",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_19",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 57,
+      "label": "Victim 19",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_20",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 63,
+      "label": "Victim 20",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_21",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 65,
+      "label": "Victim 21",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_22",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 58,
+      "label": "Victim 22",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_23",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 70,
+      "label": "Victim 23",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_24",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 24",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_25",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 63,
+      "label": "Victim 25",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_26",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 74,
+      "label": "Victim 26",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_27",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 58,
+      "label": "Victim 27",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_28",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 69,
+      "label": "Victim 28",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_29",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 67,
+      "label": "Victim 29",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_30",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 73,
+      "label": "Victim 30",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_31",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 65,
+      "label": "Victim 31",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_32",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 67,
+      "label": "Victim 32",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_33",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 67,
+      "label": "Victim 33",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_34",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 63,
+      "label": "Victim 34",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_35",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 60,
+      "label": "Victim 35",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_36",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 72,
+      "label": "Victim 36",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_37",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 69,
+      "label": "Victim 37",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_38",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 38",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_39",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 58,
+      "label": "Victim 39",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_40",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 40",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_41",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 41",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_42",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 60,
+      "label": "Victim 42",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_43",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 55,
+      "label": "Victim 43",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_44",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 69,
+      "label": "Victim 44",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_45",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 67,
+      "label": "Victim 45",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_46",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 57,
+      "label": "Victim 46",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_47",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 65,
+      "label": "Victim 47",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_48",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 64,
+      "label": "Victim 48",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_49",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 57,
+      "label": "Victim 49",
+      "size": 10
+    },
+    {
+      "id": "VICTIM_50",
+      "group": "victim",
+      "risk": 10,
+      "country": "Australia",
+      "age": 74,
+      "label": "Victim 50",
+      "size": 10
+    }
+  ],
+  "links": [
+    {
+      "source": "SCAMMER_1",
+      "target": "WALLET_BTC_KINGPIN",
+      "type": "laundering_transfer",
+      "financial_instrument": "Crypto",
+      "amount": 45665,
+      "timestamp": "2023-10-27T21:49:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "WALLET_BTC_KINGPIN",
+      "type": "laundering_transfer",
+      "financial_instrument": "Crypto",
+      "amount": 37391,
+      "timestamp": "2023-10-27T21:30:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "ACC_COMMONWEALTH_MULE",
+      "type": "laundering_transfer",
+      "financial_instrument": "Bank Account",
+      "amount": 37406,
+      "timestamp": "2023-10-27T20:39:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "ACC_COMMONWEALTH_MULE",
+      "type": "laundering_transfer",
+      "financial_instrument": "Bank Account",
+      "amount": 23875,
+      "timestamp": "2023-10-27T21:20:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "WALLET_BTC_KINGPIN",
+      "type": "laundering_transfer",
+      "financial_instrument": "Crypto",
+      "amount": 22418,
+      "timestamp": "2023-10-27T21:47:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "WALLET_BTC_KINGPIN",
+      "type": "laundering_transfer",
+      "financial_instrument": "Crypto",
+      "amount": 11166,
+      "timestamp": "2023-10-27T20:47:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_1",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T19:52:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "VICTIM_2",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:35:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_3",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:50:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "VICTIM_4",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:47:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_5",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T18:43:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_6",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:30:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_7",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:43:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_8",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:50:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_9",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:44:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_10",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:14:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_11",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:23:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_12",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:52:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_13",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:26:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_14",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:35:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_15",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:07:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_16",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:24:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_17",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:39:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_18",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T18:56:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_19",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:42:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "VICTIM_20",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:42:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_21",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:39:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_22",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:58:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "VICTIM_23",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:32:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_24",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:17:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_25",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:07:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_26",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T19:39:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_27",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:40:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_28",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:12:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_29",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:19:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_30",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:45:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_31",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:26:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_32",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:20:00"
+    },
+    {
+      "source": "SCAMMER_3",
+      "target": "VICTIM_33",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:26:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_34",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:22:00"
+    },
+    {
+      "source": "SCAMMER_4",
+      "target": "VICTIM_35",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:15:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_36",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T19:25:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_37",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:25:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_38",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T19:06:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_39",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T18:55:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_40",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:14:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_41",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:57:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_42",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:28:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_43",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T18:19:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_44",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:39:00"
+    },
+    {
+      "source": "SCAMMER_1",
+      "target": "VICTIM_45",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:36:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_46",
+      "type": "contact",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:50:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_47",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:04:00"
+    },
+    {
+      "source": "SCAMMER_2",
+      "target": "VICTIM_48",
+      "type": "contact",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T19:19:00"
+    },
+    {
+      "source": "SCAMMER_6",
+      "target": "VICTIM_49",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:33:00"
+    },
+    {
+      "source": "SCAMMER_5",
+      "target": "VICTIM_50",
+      "type": "contact",
+      "method": "Phone",
+      "timestamp": "2023-10-27T20:05:00"
+    }
+  ]
+}
