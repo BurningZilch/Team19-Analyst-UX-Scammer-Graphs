@@ -6,6 +6,7 @@
       "financial_instrument": "Crypto",
       "risk": 99,
       "label": "Investment Scam Cold Wallet",
+      "location": "Unknown (Offshore)",
       "size": 50
     },
     {
@@ -14,6 +15,7 @@
       "financial_instrument": "Bank Account",
       "risk": 85,
       "label": "Mule Account (Banking Scams)",
+      "location": "Unknown (Offshore)",
       "size": 50
     },
     {
@@ -22,6 +24,7 @@
       "financial_instrument": "Money Transfer",
       "risk": 75,
       "label": "Overseas Transfer (Romance)",
+      "location": "Unknown (Offshore)",
       "size": 50
     },
     {
@@ -30,86 +33,97 @@
       "financial_instrument": "Gambling Platform",
       "risk": 90,
       "label": "Illicit Betting Pot",
+      "location": "Unknown (Offshore)",
       "size": 50
     },
     {
       "id": "SCAMMER_INVESTMENT_1",
       "group": "scammer",
       "scam_type": "Investment",
-      "risk": 88,
+      "risk": 89,
       "label": "Investment Actor 1",
+      "location": "Kolkata, India",
       "size": 30
     },
     {
       "id": "SCAMMER_INVESTMENT_2",
       "group": "scammer",
       "scam_type": "Investment",
-      "risk": 91,
+      "risk": 83,
       "label": "Investment Actor 2",
+      "location": "Lagos, Nigeria",
       "size": 30
     },
     {
       "id": "SCAMMER_INVESTMENT_3",
       "group": "scammer",
       "scam_type": "Investment",
-      "risk": 82,
+      "risk": 95,
       "label": "Investment Actor 3",
+      "location": "Manila, Philippines",
       "size": 30
     },
     {
       "id": "SCAMMER_BANKING_1",
       "group": "scammer",
       "scam_type": "Banking",
-      "risk": 83,
+      "risk": 82,
       "label": "Banking Actor 1",
+      "location": "Manila, Philippines",
       "size": 30
     },
     {
       "id": "SCAMMER_BANKING_2",
       "group": "scammer",
       "scam_type": "Banking",
-      "risk": 81,
+      "risk": 93,
       "label": "Banking Actor 2",
+      "location": "Moscow, Russia",
       "size": 30
     },
     {
       "id": "SCAMMER_BANKING_3",
       "group": "scammer",
       "scam_type": "Banking",
-      "risk": 98,
+      "risk": 90,
       "label": "Banking Actor 3",
+      "location": "Lagos, Nigeria",
       "size": 30
     },
     {
       "id": "SCAMMER_ROMANCE_1",
       "group": "scammer",
       "scam_type": "Romance",
-      "risk": 84,
+      "risk": 81,
       "label": "Romance Actor 1",
+      "location": "Lagos, Nigeria",
       "size": 30
     },
     {
       "id": "SCAMMER_ROMANCE_2",
       "group": "scammer",
       "scam_type": "Romance",
-      "risk": 95,
+      "risk": 93,
       "label": "Romance Actor 2",
+      "location": "Kolkata, India",
       "size": 30
     },
     {
       "id": "SCAMMER_ROMANCE_3",
       "group": "scammer",
       "scam_type": "Romance",
-      "risk": 96,
+      "risk": 100,
       "label": "Romance Actor 3",
+      "location": "Lagos, Nigeria",
       "size": 30
     },
     {
       "id": "SCAMMER_GAMBLING_1",
       "group": "scammer",
       "scam_type": "Gambling",
-      "risk": 88,
+      "risk": 99,
       "label": "Gambling Actor 1",
+      "location": "Moscow, Russia",
       "size": 30
     },
     {
@@ -118,63 +132,72 @@
       "scam_type": "Gambling",
       "risk": 83,
       "label": "Gambling Actor 2",
+      "location": "Kolkata, India",
       "size": 30
     },
     {
       "id": "SCAMMER_GAMBLING_3",
       "group": "scammer",
       "scam_type": "Gambling",
-      "risk": 81,
+      "risk": 98,
       "label": "Gambling Actor 3",
+      "location": "Manila, Philippines",
       "size": 30
     },
     {
       "id": "VICTIM_1",
       "group": "victim",
-      "risk": 38,
+      "risk": 20,
       "label": "Victim 1",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_2",
       "group": "victim",
-      "risk": 15,
+      "risk": 26,
       "label": "Victim 2",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_3",
       "group": "victim",
-      "risk": 22,
+      "risk": 21,
       "label": "Victim 3",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_4",
       "group": "victim",
-      "risk": 34,
+      "risk": 36,
       "label": "Victim 4",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_5",
       "group": "victim",
-      "risk": 23,
+      "risk": 38,
       "label": "Victim 5",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_6",
       "group": "victim",
-      "risk": 27,
+      "risk": 32,
       "label": "Victim 6",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_7",
       "group": "victim",
-      "risk": 33,
+      "risk": 14,
       "label": "Victim 7",
+      "location": "Perth, WA",
       "size": 15
     },
     {
@@ -182,90 +205,103 @@
       "group": "victim",
       "risk": 14,
       "label": "Victim 8",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_9",
       "group": "victim",
-      "risk": 29,
+      "risk": 22,
       "label": "Victim 9",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_10",
       "group": "victim",
-      "risk": 30,
+      "risk": 11,
       "label": "Victim 10",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_11",
       "group": "victim",
-      "risk": 20,
+      "risk": 36,
       "label": "Victim 11",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_12",
       "group": "victim",
-      "risk": 27,
+      "risk": 24,
       "label": "Victim 12",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_13",
       "group": "victim",
-      "risk": 35,
+      "risk": 32,
       "label": "Victim 13",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_14",
       "group": "victim",
-      "risk": 38,
+      "risk": 15,
       "label": "Victim 14",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_15",
       "group": "victim",
-      "risk": 23,
+      "risk": 21,
       "label": "Victim 15",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_16",
       "group": "victim",
-      "risk": 28,
+      "risk": 15,
       "label": "Victim 16",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_17",
       "group": "victim",
-      "risk": 18,
+      "risk": 16,
       "label": "Victim 17",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_18",
       "group": "victim",
-      "risk": 11,
+      "risk": 17,
       "label": "Victim 18",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_19",
       "group": "victim",
-      "risk": 27,
+      "risk": 37,
       "label": "Victim 19",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_20",
       "group": "victim",
-      "risk": 17,
+      "risk": 27,
       "label": "Victim 20",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
@@ -273,419 +309,479 @@
       "group": "victim",
       "risk": 21,
       "label": "Victim 21",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_22",
       "group": "victim",
-      "risk": 22,
+      "risk": 33,
       "label": "Victim 22",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_23",
       "group": "victim",
-      "risk": 11,
+      "risk": 17,
       "label": "Victim 23",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_24",
       "group": "victim",
-      "risk": 37,
+      "risk": 27,
       "label": "Victim 24",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_25",
       "group": "victim",
-      "risk": 11,
+      "risk": 40,
       "label": "Victim 25",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_26",
       "group": "victim",
-      "risk": 10,
+      "risk": 38,
       "label": "Victim 26",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_27",
       "group": "victim",
-      "risk": 22,
+      "risk": 25,
       "label": "Victim 27",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_28",
       "group": "victim",
-      "risk": 24,
+      "risk": 21,
       "label": "Victim 28",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_29",
       "group": "victim",
-      "risk": 18,
+      "risk": 28,
       "label": "Victim 29",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_30",
       "group": "victim",
-      "risk": 25,
+      "risk": 29,
       "label": "Victim 30",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_31",
       "group": "victim",
-      "risk": 12,
+      "risk": 40,
       "label": "Victim 31",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_32",
       "group": "victim",
-      "risk": 18,
+      "risk": 32,
       "label": "Victim 32",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_33",
       "group": "victim",
-      "risk": 12,
+      "risk": 19,
       "label": "Victim 33",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_34",
       "group": "victim",
-      "risk": 26,
+      "risk": 15,
       "label": "Victim 34",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_35",
       "group": "victim",
-      "risk": 29,
+      "risk": 10,
       "label": "Victim 35",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_36",
       "group": "victim",
-      "risk": 26,
+      "risk": 11,
       "label": "Victim 36",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_37",
       "group": "victim",
-      "risk": 37,
+      "risk": 32,
       "label": "Victim 37",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_38",
       "group": "victim",
-      "risk": 32,
+      "risk": 33,
       "label": "Victim 38",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_39",
       "group": "victim",
-      "risk": 14,
+      "risk": 35,
       "label": "Victim 39",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_40",
       "group": "victim",
-      "risk": 15,
+      "risk": 13,
       "label": "Victim 40",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_41",
       "group": "victim",
-      "risk": 17,
+      "risk": 10,
       "label": "Victim 41",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_42",
       "group": "victim",
-      "risk": 28,
+      "risk": 29,
       "label": "Victim 42",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_43",
       "group": "victim",
-      "risk": 23,
+      "risk": 38,
       "label": "Victim 43",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_44",
       "group": "victim",
-      "risk": 11,
+      "risk": 24,
       "label": "Victim 44",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_45",
       "group": "victim",
-      "risk": 34,
+      "risk": 29,
       "label": "Victim 45",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_46",
       "group": "victim",
-      "risk": 12,
+      "risk": 24,
       "label": "Victim 46",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_47",
       "group": "victim",
-      "risk": 25,
+      "risk": 30,
       "label": "Victim 47",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_48",
       "group": "victim",
-      "risk": 20,
+      "risk": 25,
       "label": "Victim 48",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_49",
       "group": "victim",
-      "risk": 23,
+      "risk": 12,
       "label": "Victim 49",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_50",
       "group": "victim",
-      "risk": 36,
+      "risk": 20,
       "label": "Victim 50",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_51",
       "group": "victim",
-      "risk": 40,
+      "risk": 11,
       "label": "Victim 51",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_52",
       "group": "victim",
-      "risk": 22,
+      "risk": 34,
       "label": "Victim 52",
+      "location": "Gold Coast, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_53",
       "group": "victim",
-      "risk": 13,
+      "risk": 23,
       "label": "Victim 53",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_54",
       "group": "victim",
-      "risk": 29,
+      "risk": 24,
       "label": "Victim 54",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_55",
       "group": "victim",
-      "risk": 27,
+      "risk": 13,
       "label": "Victim 55",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_56",
       "group": "victim",
-      "risk": 36,
+      "risk": 22,
       "label": "Victim 56",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_57",
       "group": "victim",
-      "risk": 33,
+      "risk": 22,
       "label": "Victim 57",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_58",
       "group": "victim",
-      "risk": 21,
+      "risk": 17,
       "label": "Victim 58",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_59",
       "group": "victim",
-      "risk": 40,
+      "risk": 22,
       "label": "Victim 59",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_60",
       "group": "victim",
-      "risk": 35,
+      "risk": 22,
       "label": "Victim 60",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_61",
       "group": "victim",
-      "risk": 24,
+      "risk": 10,
       "label": "Victim 61",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_62",
       "group": "victim",
-      "risk": 15,
+      "risk": 24,
       "label": "Victim 62",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_63",
       "group": "victim",
-      "risk": 20,
+      "risk": 10,
       "label": "Victim 63",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_64",
       "group": "victim",
-      "risk": 39,
+      "risk": 10,
       "label": "Victim 64",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_65",
       "group": "victim",
-      "risk": 16,
+      "risk": 36,
       "label": "Victim 65",
+      "location": "Brisbane, QLD",
       "size": 15
     },
     {
       "id": "VICTIM_66",
       "group": "victim",
-      "risk": 19,
+      "risk": 26,
       "label": "Victim 66",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_67",
       "group": "victim",
-      "risk": 21,
+      "risk": 36,
       "label": "Victim 67",
+      "location": "Perth, WA",
       "size": 15
     },
     {
       "id": "VICTIM_68",
       "group": "victim",
-      "risk": 35,
+      "risk": 37,
       "label": "Victim 68",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_69",
       "group": "victim",
-      "risk": 26,
+      "risk": 38,
       "label": "Victim 69",
+      "location": "Adelaide, SA",
       "size": 15
     },
     {
       "id": "VICTIM_70",
       "group": "victim",
-      "risk": 39,
+      "risk": 40,
       "label": "Victim 70",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_71",
       "group": "victim",
-      "risk": 27,
+      "risk": 21,
       "label": "Victim 71",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_72",
       "group": "victim",
-      "risk": 30,
+      "risk": 38,
       "label": "Victim 72",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_73",
       "group": "victim",
-      "risk": 24,
+      "risk": 34,
       "label": "Victim 73",
+      "location": "Sydney, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_74",
       "group": "victim",
-      "risk": 26,
+      "risk": 24,
       "label": "Victim 74",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_75",
       "group": "victim",
-      "risk": 39,
+      "risk": 19,
       "label": "Victim 75",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_76",
       "group": "victim",
-      "risk": 23,
+      "risk": 12,
       "label": "Victim 76",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_77",
       "group": "victim",
-      "risk": 37,
+      "risk": 27,
       "label": "Victim 77",
+      "location": "Melbourne, VIC",
       "size": 15
     },
     {
       "id": "VICTIM_78",
       "group": "victim",
-      "risk": 33,
+      "risk": 11,
       "label": "Victim 78",
+      "location": "Newcastle, NSW",
       "size": 15
     },
     {
       "id": "VICTIM_79",
       "group": "victim",
-      "risk": 14,
+      "risk": 19,
       "label": "Victim 79",
+      "location": "Canberra, ACT",
       "size": 15
     },
     {
       "id": "VICTIM_80",
       "group": "victim",
-      "risk": 29,
+      "risk": 26,
       "label": "Victim 80",
+      "location": "Gold Coast, QLD",
       "size": 15
     }
   ],
@@ -694,245 +790,245 @@
       "source": "SCAMMER_INVESTMENT_1",
       "target": "WALLET_BTC_MAIN",
       "type": "laundering",
-      "amount": 19763,
+      "amount": 40606,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_2",
       "target": "WALLET_BTC_MAIN",
       "type": "laundering",
-      "amount": 31605,
+      "amount": 34162,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_3",
       "target": "WALLET_BTC_MAIN",
       "type": "laundering",
-      "amount": 39213,
+      "amount": 13675,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_BANKING_1",
       "target": "ACC_CBA_MULE",
       "type": "laundering",
-      "amount": 26376,
+      "amount": 41293,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_BANKING_2",
       "target": "ACC_CBA_MULE",
       "type": "laundering",
-      "amount": 13660,
+      "amount": 13082,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_BANKING_3",
       "target": "ACC_CBA_MULE",
       "type": "laundering",
-      "amount": 6676,
+      "amount": 19313,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_ROMANCE_1",
       "target": "ID_WESTERN_UNION",
       "type": "laundering",
-      "amount": 5111,
+      "amount": 10387,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_ROMANCE_2",
       "target": "ID_WESTERN_UNION",
       "type": "laundering",
-      "amount": 15654,
+      "amount": 39066,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_ROMANCE_3",
       "target": "ID_WESTERN_UNION",
       "type": "laundering",
-      "amount": 31239,
+      "amount": 25336,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_GAMBLING_1",
       "target": "WALLET_BETTING_APP",
       "type": "laundering",
-      "amount": 13841,
+      "amount": 25475,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_GAMBLING_2",
       "target": "WALLET_BETTING_APP",
       "type": "laundering",
-      "amount": 46770,
+      "amount": 39638,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
       "source": "SCAMMER_GAMBLING_3",
       "target": "WALLET_BETTING_APP",
       "type": "laundering",
-      "amount": 22186,
+      "amount": 34297,
       "timestamp": "2023-10-27T23:00:00"
     },
     {
-      "source": "SCAMMER_BANKING_1",
+      "source": "SCAMMER_INVESTMENT_3",
       "target": "VICTIM_1",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T17:52:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_2",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Email",
-      "timestamp": "2023-10-27T01:56:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_3",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T02:17:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_4",
       "type": "attack",
       "scam_type": "Investment",
       "method": "SMS",
-      "timestamp": "2023-10-27T18:24:00"
+      "timestamp": "2023-10-27T21:16:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_2",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T02:23:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_3",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T17:24:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_4",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T09:26:00"
     },
     {
       "source": "SCAMMER_GAMBLING_1",
       "target": "VICTIM_5",
       "type": "attack",
       "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T02:33:00"
+      "method": "SMS",
+      "timestamp": "2023-10-27T00:45:00"
     },
     {
-      "source": "SCAMMER_BANKING_3",
+      "source": "SCAMMER_ROMANCE_3",
       "target": "VICTIM_6",
       "type": "attack",
-      "scam_type": "Banking",
-      "method": "Phone",
-      "timestamp": "2023-10-27T12:01:00"
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T21:29:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
+      "source": "SCAMMER_ROMANCE_1",
       "target": "VICTIM_7",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Email",
-      "timestamp": "2023-10-27T04:59:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_8",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T23:41:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_3",
-      "target": "VICTIM_9",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "SMS",
-      "timestamp": "2023-10-27T17:59:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_1",
-      "target": "VICTIM_10",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "SMS",
-      "timestamp": "2023-10-27T12:11:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_11",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "Email",
-      "timestamp": "2023-10-27T09:44:00"
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T00:57:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_12",
+      "target": "VICTIM_8",
       "type": "attack",
       "scam_type": "Investment",
-      "method": "Phone",
-      "timestamp": "2023-10-27T19:40:00"
+      "method": "Email",
+      "timestamp": "2023-10-27T21:58:00"
     },
     {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_13",
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_9",
       "type": "attack",
-      "scam_type": "Banking",
-      "method": "Phone",
-      "timestamp": "2023-10-27T14:06:00"
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T23:13:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_14",
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_10",
       "type": "attack",
       "scam_type": "Gambling",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T01:04:00"
+      "timestamp": "2023-10-27T00:16:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_1",
+      "target": "VICTIM_11",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T22:49:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_12",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T00:43:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_13",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T20:14:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_14",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T01:02:00"
     },
     {
       "source": "SCAMMER_ROMANCE_2",
       "target": "VICTIM_15",
       "type": "attack",
       "scam_type": "Romance",
-      "method": "Phone",
-      "timestamp": "2023-10-27T23:11:00"
+      "method": "SMS",
+      "timestamp": "2023-10-27T00:14:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_2",
+      "source": "SCAMMER_INVESTMENT_2",
       "target": "VICTIM_16",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T04:49:00"
+      "scam_type": "Investment",
+      "method": "Email",
+      "timestamp": "2023-10-27T21:12:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
+      "source": "SCAMMER_INVESTMENT_3",
       "target": "VICTIM_17",
       "type": "attack",
-      "scam_type": "Gambling",
+      "scam_type": "Investment",
       "method": "Email",
-      "timestamp": "2023-10-27T04:24:00"
+      "timestamp": "2023-10-27T19:58:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_2",
+      "source": "SCAMMER_BANKING_2",
       "target": "VICTIM_18",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T04:42:00"
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T12:54:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_2",
+      "source": "SCAMMER_BANKING_3",
       "target": "VICTIM_19",
       "type": "attack",
-      "scam_type": "Gambling",
+      "scam_type": "Banking",
       "method": "Email",
-      "timestamp": "2023-10-27T02:50:00"
+      "timestamp": "2023-10-27T14:42:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
+      "source": "SCAMMER_INVESTMENT_1",
       "target": "VICTIM_20",
       "type": "attack",
-      "scam_type": "Gambling",
+      "scam_type": "Investment",
       "method": "Phone",
-      "timestamp": "2023-10-27T02:00:00"
+      "timestamp": "2023-10-27T17:52:00"
     },
     {
       "source": "SCAMMER_ROMANCE_1",
@@ -940,247 +1036,247 @@
       "type": "attack",
       "scam_type": "Romance",
       "method": "Email",
-      "timestamp": "2023-10-27T02:00:00"
+      "timestamp": "2023-10-27T21:24:00"
     },
     {
-      "source": "SCAMMER_BANKING_1",
+      "source": "SCAMMER_ROMANCE_3",
       "target": "VICTIM_22",
       "type": "attack",
-      "scam_type": "Banking",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T23:28:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_23",
+      "type": "attack",
+      "scam_type": "Gambling",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T14:47:00"
+      "timestamp": "2023-10-27T23:06:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_24",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T12:51:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_23",
+      "target": "VICTIM_25",
       "type": "attack",
       "scam_type": "Investment",
       "method": "Phone",
-      "timestamp": "2023-10-27T20:26:00"
+      "timestamp": "2023-10-27T20:18:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_24",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T01:58:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_1",
-      "target": "VICTIM_25",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T23:26:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_3",
+      "source": "SCAMMER_INVESTMENT_2",
       "target": "VICTIM_26",
       "type": "attack",
       "scam_type": "Investment",
-      "method": "Phone",
-      "timestamp": "2023-10-27T21:07:00"
+      "method": "SMS",
+      "timestamp": "2023-10-27T21:58:00"
     },
     {
-      "source": "SCAMMER_BANKING_1",
+      "source": "SCAMMER_INVESTMENT_3",
       "target": "VICTIM_27",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "SMS",
-      "timestamp": "2023-10-27T11:32:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_28",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "SMS",
-      "timestamp": "2023-10-27T11:43:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_29",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T04:56:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_2",
-      "target": "VICTIM_30",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "SMS",
-      "timestamp": "2023-10-27T22:37:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_31",
       "type": "attack",
       "scam_type": "Investment",
       "method": "Phone",
-      "timestamp": "2023-10-27T19:34:00"
+      "timestamp": "2023-10-27T20:32:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_32",
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_28",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T02:07:00"
+      "scam_type": "Investment",
+      "method": "Email",
+      "timestamp": "2023-10-27T19:20:00"
     },
     {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_33",
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_29",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T22:04:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_30",
       "type": "attack",
       "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T10:18:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_31",
+      "type": "attack",
+      "scam_type": "Romance",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T11:51:00"
+      "timestamp": "2023-10-27T01:56:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_32",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T19:43:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_33",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T18:17:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_3",
       "target": "VICTIM_34",
       "type": "attack",
       "scam_type": "Investment",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T21:06:00"
+      "method": "Phone",
+      "timestamp": "2023-10-27T18:00:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_2",
+      "source": "SCAMMER_BANKING_1",
       "target": "VICTIM_35",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T23:26:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_36",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Email",
-      "timestamp": "2023-10-27T03:19:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_37",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T03:14:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_38",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T01:05:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_2",
-      "target": "VICTIM_39",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "Email",
-      "timestamp": "2023-10-27T20:01:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_40",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "SMS",
-      "timestamp": "2023-10-27T10:34:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_3",
-      "target": "VICTIM_41",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "SMS",
-      "timestamp": "2023-10-27T21:42:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_2",
-      "target": "VICTIM_42",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T01:20:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_43",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T22:30:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_2",
-      "target": "VICTIM_44",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "Email",
-      "timestamp": "2023-10-27T20:34:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_45",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "Email",
-      "timestamp": "2023-10-27T10:20:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_46",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "SMS",
-      "timestamp": "2023-10-27T18:02:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_3",
-      "target": "VICTIM_47",
-      "type": "attack",
       "scam_type": "Banking",
       "method": "Phone",
-      "timestamp": "2023-10-27T15:51:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_1",
-      "target": "VICTIM_48",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "Email",
-      "timestamp": "2023-10-27T20:44:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_49",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "SMS",
-      "timestamp": "2023-10-27T19:49:00"
+      "timestamp": "2023-10-27T09:42:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_1",
-      "target": "VICTIM_50",
+      "target": "VICTIM_36",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:53:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_37",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T15:10:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_3",
+      "target": "VICTIM_38",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T15:39:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_39",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T00:43:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_40",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Email",
+      "timestamp": "2023-10-27T21:17:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_41",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T23:44:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_42",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T15:28:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_43",
       "type": "attack",
       "scam_type": "Investment",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T17:28:00"
+      "timestamp": "2023-10-27T19:18:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_44",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T20:08:00"
     },
     {
       "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_51",
+      "target": "VICTIM_45",
       "type": "attack",
       "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T03:23:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_46",
+      "type": "attack",
+      "scam_type": "Investment",
       "method": "Phone",
-      "timestamp": "2023-10-27T04:17:00"
+      "timestamp": "2023-10-27T20:05:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_47",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T02:18:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_48",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T23:35:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_1",
+      "target": "VICTIM_49",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T23:17:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_50",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "SMS",
+      "timestamp": "2023-10-27T01:47:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_51",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T20:45:00"
     },
     {
       "source": "SCAMMER_BANKING_1",
@@ -1188,231 +1284,231 @@
       "type": "attack",
       "scam_type": "Banking",
       "method": "Email",
-      "timestamp": "2023-10-27T12:30:00"
+      "timestamp": "2023-10-27T15:11:00"
     },
     {
-      "source": "SCAMMER_INVESTMENT_1",
+      "source": "SCAMMER_GAMBLING_3",
       "target": "VICTIM_53",
       "type": "attack",
-      "scam_type": "Investment",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T17:03:00"
+      "scam_type": "Gambling",
+      "method": "SMS",
+      "timestamp": "2023-10-27T03:50:00"
     },
     {
-      "source": "SCAMMER_ROMANCE_1",
+      "source": "SCAMMER_BANKING_1",
       "target": "VICTIM_54",
       "type": "attack",
-      "scam_type": "Romance",
-      "method": "Phone",
-      "timestamp": "2023-10-27T22:27:00"
+      "scam_type": "Banking",
+      "method": "SMS",
+      "timestamp": "2023-10-27T17:38:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_2",
+      "source": "SCAMMER_GAMBLING_3",
       "target": "VICTIM_55",
       "type": "attack",
       "scam_type": "Gambling",
       "method": "Phone",
-      "timestamp": "2023-10-27T00:36:00"
+      "timestamp": "2023-10-27T00:27:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_3",
+      "source": "SCAMMER_ROMANCE_2",
       "target": "VICTIM_56",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T22:35:00"
+      "scam_type": "Romance",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T23:02:00"
     },
     {
       "source": "SCAMMER_GAMBLING_3",
       "target": "VICTIM_57",
       "type": "attack",
       "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T04:23:00"
+      "method": "Email",
+      "timestamp": "2023-10-27T02:20:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_1",
+      "source": "SCAMMER_INVESTMENT_1",
       "target": "VICTIM_58",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T03:02:00"
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T18:41:00"
     },
     {
-      "source": "SCAMMER_BANKING_1",
+      "source": "SCAMMER_BANKING_3",
       "target": "VICTIM_59",
       "type": "attack",
       "scam_type": "Banking",
       "method": "SMS",
-      "timestamp": "2023-10-27T14:18:00"
+      "timestamp": "2023-10-27T16:54:00"
     },
     {
-      "source": "SCAMMER_GAMBLING_1",
+      "source": "SCAMMER_ROMANCE_3",
       "target": "VICTIM_60",
       "type": "attack",
-      "scam_type": "Gambling",
-      "method": "SMS",
-      "timestamp": "2023-10-27T04:45:00"
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T23:06:00"
     },
     {
-      "source": "SCAMMER_BANKING_2",
+      "source": "SCAMMER_BANKING_3",
       "target": "VICTIM_61",
       "type": "attack",
       "scam_type": "Banking",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T15:31:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_62",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T01:09:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_63",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "SMS",
-      "timestamp": "2023-10-27T20:55:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_64",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Email",
-      "timestamp": "2023-10-27T00:43:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_2",
-      "target": "VICTIM_65",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "SMS",
-      "timestamp": "2023-10-27T16:04:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_3",
-      "target": "VICTIM_66",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "SMS",
-      "timestamp": "2023-10-27T20:41:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_67",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "Email",
-      "timestamp": "2023-10-27T03:30:00"
-    },
-    {
-      "source": "SCAMMER_BANKING_3",
-      "target": "VICTIM_68",
-      "type": "attack",
-      "scam_type": "Banking",
-      "method": "Phone",
-      "timestamp": "2023-10-27T13:48:00"
+      "timestamp": "2023-10-27T16:20:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_1",
-      "target": "VICTIM_69",
+      "target": "VICTIM_62",
       "type": "attack",
       "scam_type": "Investment",
       "method": "Email",
-      "timestamp": "2023-10-27T19:05:00"
+      "timestamp": "2023-10-27T17:44:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_63",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T11:39:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_2",
+      "target": "VICTIM_64",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T22:57:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_65",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T21:03:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_66",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T15:54:00"
+    },
+    {
+      "source": "SCAMMER_ROMANCE_3",
+      "target": "VICTIM_67",
+      "type": "attack",
+      "scam_type": "Romance",
+      "method": "Phone",
+      "timestamp": "2023-10-27T00:50:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_68",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "WhatsApp",
+      "timestamp": "2023-10-27T21:31:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_3",
+      "target": "VICTIM_69",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Email",
+      "timestamp": "2023-10-27T04:58:00"
     },
     {
       "source": "SCAMMER_BANKING_1",
       "target": "VICTIM_70",
       "type": "attack",
       "scam_type": "Banking",
-      "method": "Phone",
-      "timestamp": "2023-10-27T14:14:00"
-    },
-    {
-      "source": "SCAMMER_ROMANCE_2",
-      "target": "VICTIM_71",
-      "type": "attack",
-      "scam_type": "Romance",
-      "method": "Phone",
-      "timestamp": "2023-10-27T01:45:00"
-    },
-    {
-      "source": "SCAMMER_INVESTMENT_1",
-      "target": "VICTIM_72",
-      "type": "attack",
-      "scam_type": "Investment",
-      "method": "Phone",
-      "timestamp": "2023-10-27T19:11:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_3",
-      "target": "VICTIM_73",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T00:51:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_74",
-      "type": "attack",
-      "scam_type": "Gambling",
-      "method": "WhatsApp",
-      "timestamp": "2023-10-27T22:14:00"
-    },
-    {
-      "source": "SCAMMER_GAMBLING_1",
-      "target": "VICTIM_75",
-      "type": "attack",
-      "scam_type": "Gambling",
       "method": "SMS",
-      "timestamp": "2023-10-27T00:42:00"
+      "timestamp": "2023-10-27T09:35:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_2",
-      "target": "VICTIM_76",
+      "target": "VICTIM_71",
       "type": "attack",
       "scam_type": "Investment",
       "method": "WhatsApp",
-      "timestamp": "2023-10-27T19:27:00"
+      "timestamp": "2023-10-27T18:20:00"
     },
     {
       "source": "SCAMMER_GAMBLING_2",
-      "target": "VICTIM_77",
+      "target": "VICTIM_72",
       "type": "attack",
       "scam_type": "Gambling",
-      "method": "Phone",
-      "timestamp": "2023-10-27T23:00:00"
+      "method": "SMS",
+      "timestamp": "2023-10-27T23:15:00"
     },
     {
       "source": "SCAMMER_BANKING_1",
-      "target": "VICTIM_78",
+      "target": "VICTIM_73",
       "type": "attack",
       "scam_type": "Banking",
       "method": "SMS",
-      "timestamp": "2023-10-27T17:11:00"
+      "timestamp": "2023-10-27T11:26:00"
     },
     {
-      "source": "SCAMMER_ROMANCE_1",
-      "target": "VICTIM_79",
+      "source": "SCAMMER_INVESTMENT_1",
+      "target": "VICTIM_74",
       "type": "attack",
-      "scam_type": "Romance",
-      "method": "Email",
-      "timestamp": "2023-10-27T00:35:00"
+      "scam_type": "Investment",
+      "method": "SMS",
+      "timestamp": "2023-10-27T17:38:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_1",
+      "target": "VICTIM_75",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T11:39:00"
     },
     {
       "source": "SCAMMER_INVESTMENT_3",
-      "target": "VICTIM_80",
+      "target": "VICTIM_76",
       "type": "attack",
       "scam_type": "Investment",
       "method": "Email",
-      "timestamp": "2023-10-27T17:30:00"
+      "timestamp": "2023-10-27T21:07:00"
+    },
+    {
+      "source": "SCAMMER_INVESTMENT_3",
+      "target": "VICTIM_77",
+      "type": "attack",
+      "scam_type": "Investment",
+      "method": "Phone",
+      "timestamp": "2023-10-27T21:30:00"
+    },
+    {
+      "source": "SCAMMER_GAMBLING_2",
+      "target": "VICTIM_78",
+      "type": "attack",
+      "scam_type": "Gambling",
+      "method": "Phone",
+      "timestamp": "2023-10-27T22:38:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_79",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Email",
+      "timestamp": "2023-10-27T10:29:00"
+    },
+    {
+      "source": "SCAMMER_BANKING_2",
+      "target": "VICTIM_80",
+      "type": "attack",
+      "scam_type": "Banking",
+      "method": "Phone",
+      "timestamp": "2023-10-27T15:12:00"
     }
   ]
 }
